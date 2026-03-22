@@ -15,7 +15,7 @@ This project allows secure file sharing using:
 - 📦 pip install flask in vs terminal
 ---
 
-## 📂 FUTURE_CS_03/ Directory Structure
+## 📂 Directory Structure
 
 ├── main.py # Main Flask application
 ├── templates/ # HTML templates (UI pages)
